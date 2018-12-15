@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "576223337127",
+    "firebase_url": "https://gateway-companion.firebaseio.com",
+    "project_id": "gateway-companion",
+    "storage_bucket": "gateway-companion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576223337127:android:2bf0a655435dc185",
+        "android_client_info": {
+          "package_name": "com.beanfactory.yashp.gatewaycompanion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576223337127-grre34g8s3ilrnc0g20am4s6l7rt0qa5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beanfactory.yashp.gatewaycompanion",
+            "certificate_hash": "9469dac0f4104d049f7cd6b6e2f3e29f02f701c0"
+          }
+        },
+        {
+          "client_id": "576223337127-3ni7a59hh32jbnsu7ed16eepjc28tn87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6ZKBm3bb6EC1DwqLkCIM9raukfJ0yDDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576223337127-3ni7a59hh32jbnsu7ed16eepjc28tn87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

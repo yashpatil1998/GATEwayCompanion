@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GATEway Companion</string>
+    <string name="tagline">Your gateway to knowledge</string>
+    <string name="history_menu">History</string>
+    <string name="sign_out_menu">Sign out</string>
+    <string name="about_menu">About</string>
+    <string name="feedback_menu">Feedback</string>
+    <string name="user_name">User Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="dashboard_content">An interactive device which helps identify gate ICs. Displays datasheet and tutorials for the identified IC on an Android app. User-friendly Interfacing with Android phones via bluetooth/internet Interactive teaching assistant used by teachers Learning aid for high school and college studentsAn interactive device which helps identify gate ICs. Displays datasheet and tutorials for the identified IC on an Android app. User-friendly Interfacing with Android phones via bluetooth/internet Interactive teaching assistant used by teachers Learning aid for high school and college students An interactive device which helps identify gate ICs. Displays datasheet and tutorials for the identified IC on an Android app. User-friendly Interfacing with Android phones via bluetooth/internet Interactive teaching assistant used by teachers Learning aid for high school and college students An interactive device which helps identify gate ICs. Displays datasheet and tutorials for the identified IC on an Android app. User-friendly Interfacing with Android phones via bluetooth/internet Interactive teaching assistant used by teachers Learning aid for high school and college students An interactive device which helps identify gate ICs. Displays datasheet and tutorials for the identified IC on an Android app. User-friendly Interfacing with Android phones via bluetooth/internet Interactive teaching assistant used by teachers Learning aid for high school and college students An interactive device which helps identify gate ICs. Displays datasheet and tutorials for the identified IC on an Android app. User-friendly Interfacing with Android phones via bluetooth/internet Interactive teaching assistant used by teachers Learning aid for high school and college students An interactive device which helps identify gate ICs. Displays datasheet and tutorials for the identified IC on an Android app. User-friendly Interfacing with Android phones via bluetooth/internet Interactive teaching assistant used by teachers Learning aid for high school and college students</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="developer">Developer</string>
+    <string name="app_description">Android app used to pair with the GATEway to see result of the detected basic logic gate</string>
+    <string name="yash_patil">Yash Patil</string>
+    <string name="third_party_libraries">Third Party Libraries</string>
+    <string name="libraries">CircleImageView\nCrescentImageView\nKenburnsView\nFirebase Utilities</string>
+    <string name="about_actionbar_title">About App</string>
+    <string name="result_will_appear_here">Result of the detected gate will appear here</string>
+</resources>
